@@ -6,3 +6,4 @@ public class Main {
         System.out.println("Area rettangolo: " + r.calcolaArea());
     }
 }
+ 
